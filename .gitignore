@@ -37,7 +37,7 @@ coverage/
 .expo/
 
 # package lock files
-package-lock.json
+# package-lock.json
 npm-shrinkwrap.json
 
 # Mac system files
